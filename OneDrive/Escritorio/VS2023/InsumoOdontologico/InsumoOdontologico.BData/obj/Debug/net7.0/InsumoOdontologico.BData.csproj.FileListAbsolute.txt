@@ -1,0 +1,14 @@
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\bin\Debug\net7.0\InsumoOdontologico.BData.deps.json
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\bin\Debug\net7.0\InsumoOdontologico.BData.runtimeconfig.json
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\bin\Debug\net7.0\InsumoOdontologico.BData.dll
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\bin\Debug\net7.0\InsumoOdontologico.BData.pdb
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.csproj.AssemblyReference.cache
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.AssemblyInfoInputs.cache
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.AssemblyInfo.cs
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.csproj.CoreCompileInputs.cache
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.dll
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\refint\InsumoOdontologico.BData.dll
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.pdb
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\InsumoOdontologico.BData.genruntimeconfig.cache
+C:\Users\joaco\OneDrive\Escritorio\VS2023\InsumoOdontologico\InsumoOdontologico.BData\obj\Debug\net7.0\ref\InsumoOdontologico.BData.dll

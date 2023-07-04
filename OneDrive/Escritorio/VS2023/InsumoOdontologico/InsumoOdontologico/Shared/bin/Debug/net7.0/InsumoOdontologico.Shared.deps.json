@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "InsumoOdontologico.Shared/1.0.0": {
+        "runtime": {
+          "InsumoOdontologico.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsumoOdontologico.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
